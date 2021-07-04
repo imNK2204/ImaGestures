@@ -23,7 +23,7 @@ Image Picker and Gestures App
 * UISwipeGestureRecognizer
 * UIPanGestureRecognizer
 
-### Screenshots
+## Screenshots
 
 ![01](https://user-images.githubusercontent.com/81278594/124372211-d881d000-dca6-11eb-9f1d-8296ab00421b.png)
 
